@@ -1,7 +1,7 @@
 
 $ToolName = "cl-csv.exe"
 $ToolDir = "$env:USERPROFILE\Tools"
-$DownloadUrl = "https://raw.githubusercontent.com/ipsilo-eu/cll-csv/main/.exe/cll-csv.exe"
+$DownloadUrl = "https://github.com/ipsilo-eu/cll-csv/releases/download/v1.0.0/cll-csv.exe"
 
 Write-Host "Starting installation of $ToolName for the current user..." -ForegroundColor Yellow
 
